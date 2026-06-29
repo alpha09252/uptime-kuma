@@ -163,39 +163,9 @@ If you love this project, please consider giving it a ⭐.
 
 I recommend using Google, GitHub Issues, or Uptime Kuma's subreddit for finding answers to your question. If you cannot find the information you need, feel free to ask:
 
-- [GitHub Issues](https://github.com/louislam/uptime-kuma/issues)
+- [GitHub Issues](https://github.com/alpha09252/uptime-kuma/issues)
 - [Subreddit (r/UptimeKuma)](https://www.reddit.com/r/UptimeKuma/)
 
-My Reddit account: [u/louislamlam](https://reddit.com/u/louislamlam)
-You can mention me if you ask a question on the subreddit.
 
 ## Contributions
 
-### Create Pull Requests
-
-Pull requests are awesome.
-To keep reviews fast and effective, please make sure you’ve [read our pull request guidelines](https://github.com/louislam/uptime-kuma/blob/master/CONTRIBUTING.md#can-i-create-a-pull-request-for-uptime-kuma).
-
-### Test Pull Requests
-
-There are a lot of pull requests right now, but I don't have time to test them all.
-
-If you want to help, you can check this:
-<https://github.com/louislam/uptime-kuma/wiki/Test-Pull-Requests>
-
-### Test Beta Version
-
-Check out the latest beta release here: <https://github.com/louislam/uptime-kuma/releases>
-
-### Bug Reports / Feature Requests
-
-If you want to report a bug or request a new feature, feel free to open a [new issue](https://github.com/louislam/uptime-kuma/issues).
-
-### Translations
-
-If you want to translate Uptime Kuma into your language, please visit [Weblate Readme](https://github.com/louislam/uptime-kuma/blob/master/src/lang/README.md).
-###
-### Spelling & Grammar
-
-Feel free to correct the grammar in the documentation or code.
-My mother language is not English and my grammar is not that great.
