@@ -77,7 +77,7 @@ Requirements:
 - [pm2](https://pm2.keymetrics.io/) - For running Uptime Kuma in the background
 
 ```bash
-git clone https://github.com/louislam/uptime-kuma.git
+git clone https://github.com/alpha09252/uptime-kuma.git
 cd uptime-kuma
 npm run setup
 
