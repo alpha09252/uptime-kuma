@@ -62,13 +62,3 @@ Telegram Notification Sample:
 
 If you love this project, please consider giving it a ⭐.
 
-## 🗣️ Discussion / Ask for Help
-
-⚠️ For any general or technical questions, please don't send me an email, as I am unable to provide support in that manner. I will not respond if you ask questions there.
-
-I recommend using Google, GitHub Issues, or Uptime Kuma's subreddit for finding answers to your question. If you cannot find the information you need, feel free to ask:
-
-- [GitHub Issues](https://github.com/alpha09252/uptime-kuma/issues)
-- [Subreddit (r/UptimeKuma)](https://www.reddit.com/r/UptimeKuma/)
-
-
